@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Scrimba-Travel-Journal/static/css/main.d179880d.css",
+    "main.js": "/Scrimba-Travel-Journal/static/js/main.d5cb28d6.js",
+    "static/js/453.b04edd44.chunk.js": "/Scrimba-Travel-Journal/static/js/453.b04edd44.chunk.js",
+    "index.html": "/Scrimba-Travel-Journal/index.html",
+    "main.d179880d.css.map": "/Scrimba-Travel-Journal/static/css/main.d179880d.css.map",
+    "main.d5cb28d6.js.map": "/Scrimba-Travel-Journal/static/js/main.d5cb28d6.js.map",
+    "453.b04edd44.chunk.js.map": "/Scrimba-Travel-Journal/static/js/453.b04edd44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d179880d.css",
+    "static/js/main.d5cb28d6.js"
+  ]
+}
